@@ -1,11 +1,10 @@
-import Link from "next/link";
 export default function Responsive(){
     return(
         <div className="card-container">
             <h1 className="card-heading"><span>|</span>Latest Series</h1>
             <div className="main-container">
             <div className="card">
-                <div className="image"><span className="text">Episode 204</span><img src="/images/naruto.jpg"></img></div>
+                <div className="image"> <span className="text">Episode</span><img src="/images/naruto.jpg"></img></div>
                 <h1 className="title">Naruto Shippuden</h1>
                 <p className="description">2007</p>
             </div> 

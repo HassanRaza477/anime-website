@@ -11,7 +11,7 @@ export default function Series(){
                     <Link href="/"><li>Home</li></Link>
                     <Link href="About"><li>About us</li></Link>
                     <Link href="series"><li>Series</li></Link>
-                    <Link href="/"><li>Contact Us</li></Link>
+                    <Link href="contact"><li>Contact Us</li></Link>
                 </ul>
             </div>
 

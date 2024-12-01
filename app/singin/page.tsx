@@ -19,7 +19,7 @@ export default function Singin(){
                     <button type="submit" className="login-btn">Login</button>
 
                     <div className="register">
-                        <p>Don't have an account?</p><a href="#">Register</a>
+                        <p>Don&apos;t have an account?</p><a href="#">Register</a>
                     </div>
                 </form>
            </div>
